@@ -1,6 +1,6 @@
 ### 🌐 Live Demo
 
-👉 [Click here to view the deployed app](https://stock-prediction--app.streamlit.app/)
+👉 [Click here to view the deployed app](https://stock-market-prediction-app-kjg3b3goouwubfnmvhixgd.streamlit.app/)
 
 # 📈 Stock Price Prediction & Portfolio Optimization
 
